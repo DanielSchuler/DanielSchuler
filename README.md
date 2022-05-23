@@ -1,5 +1,5 @@
 ### Hi there 👋
-![yo](https://user-images.githubusercontent.com/11341667/169819954-d3fce44f-00df-4e36-b42c-0a928268e2b0.jpeg)
+![me](https://user-images.githubusercontent.com/11341667/169820623-29010928-d4d6-4419-8922-7c58cf107b40.jpg)
 <!--
 **DanielSchuler/DanielSchuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
