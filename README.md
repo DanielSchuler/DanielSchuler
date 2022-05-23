@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const thai = {
+  pronouns: "he" | "him",
+  code: [Python, Java, HTML, CSS],
+  tools: [],
+  architecture: [],
+  techCommunities: {
+                        a:b,
+                      },
+ challenge: 
+}
