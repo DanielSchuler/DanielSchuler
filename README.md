@@ -1,107 +1,52 @@
-<!DOCTYPE html>
-<html>
+## Hey there! 👋
+![Profile Picture](https://user-images.githubusercontent.com/11341667/169820623-29010928-d4d6-4419-8922-7c58cf107b40.jpg)
 
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
+👨‍💻 I'm Daniel Schuler, a Systems Engineer with a passion for Technology and Innovation! I have more than 5 years of experience as a full-stack developer, engaging in the entire software development cycle. My main expertise lies in using Python and Java for the back end, Angular or JavaScript for the front end, and PostgreSQL and Firebase for the database. 🌐
 
-        .profile-image {
-            max-width: 150px;
-            border-radius: 50%;
-            margin: 20px 0;
-        }
+I enjoy creating world-class technological solutions and always eager to take on new challenges. My goal is to contribute to projects that make a difference and embrace the power of technology to solve real-world problems. Let's build something amazing together! 🚀
 
-        .section-title {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
+### Experience
 
-        .experience-item {
-            margin-bottom: 15px;
-        }
+**Apartment Management System, Full Stack Developer** — March 2023 – Present
+- 🏢 Designed and built the system for administrating apartments and homes that are for rental.
+- 🚀 Deployed the system on Digital Ocean.
+- 💻 Technological Stacks: Django, GitHub, Digital Ocean, Kubernetes, Docker
 
-        .skills-list {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
+**Tus Pases, Full Stack Developer** — January 2023 – Present
+- 🎭 Designed and built the system for presenting cultural events.
+- 👨‍💻 Responsible for development and deployment of the system.
+- 💻 Technological Stacks: Angular, Firestore
+- 🌐 Website: [tuspases.com](https://tuspases.com)
 
-        .skills-item {
-            margin-bottom: 5px;
-        }
+**Más Seguros Colombia, Product Developer** — Jun 2019 - Present
+- 🔒 Designed and built four of the six Quoting Bots to reduce the quote time by 80% for insurance advisors on insurer platforms.
+- 🧠 Developed the controller responsible for executing the bots, saving quote information and comparisons in Firestore DB, and quote files in Google Cloud Storage.
+- 💻 Technological Stacks: Python, Java, Selenium, Angular, Firestore
+- 🌐 Website: [masseguros.pro](https://masseguros.pro)
 
-        .certifications-list {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
+**Ipack SAS Colombia, Developer** — Oct 2017 - December 2022
+- 🗄️ Assisted in designing and building the company's CRM in Angular and migrating information from the previous CRM using Python.
+- 📈 Designed the CRM and methodologies for the commercial area, resulting in improved productivity by 50% through standardized processes.
+- 💻 Technological Stacks: Python, Angular, Firestore
+- 🌐 Website: [ipack.com.co](https://ipack.com.co), [CRMDNI](https://crmdni.web.app/#/login)
 
-        .certifications-item {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
+### Skills
 
-<body>
-    <h1>Hi there 👋</h1>
-    <img class="profile-image"
-        src="https://user-images.githubusercontent.com/11341667/169820623-29010928-d4d6-4419-8922-7c58cf107b40.jpg"
-        alt="Profile Picture">
+- 🐍 **Programming Languages:** Advanced in Python, Java; Intermediate in Angular, TypeScript, JavaScript.
+- 🛠️ **Framework Tools:** Intermediate in Django, Selenium; Essential in FastAPI.
+- 🗄️ **Database:** Intermediate in MySql, PostgreSQL; Essential in Firestore DB.
+- 🛠️ **Tools:** Git, GitHub.
+- 🔄 **Agile:** Scrum.
+- 🌐 **Languages:** Fluent in English; Native in Spanish; Basic in German.
 
-    <p>
-        Systems engineer with more than 5 years of experience as a full stack developer involved in the entire software
-        development cycle using the Python and Java programming languages for the back end, Angular or JavaScript for
-        the front end, PostgreSQL and Firebase for the database. I have used frameworks like Django and FastAPI to
-        consume data from external sources and store it in local databases like PostgreSQL or in Firestore DB and Google
-        Cloud Storage. I am passionate about Technology and Innovation, constantly looking for new challenges. My goal
-        is to contribute to the development of world-class technological solutions.
-    </p>
+### Education
 
-    <h2>Experience</h2>
-    <div class="experience-item">
-        <h3>Apartment Management System, Full Stack Developer — March 2023 – Present</h3>
-        <ul>
-            <li>I designed and built the system for administrating apartments and homes that are for rental.</li>
-            <li>I deployed the system on Digital Ocean.</li>
-            <li>Technological Stacks: Django, GitHub, Digital Ocean, Kubernetes, Docker</li>
-        </ul>
-    </div>
+**Politécnico Grancolombiano – Bogotá, Colombia**
+- 🎓 Systems Engineering and Computer Science, August 2012 - May 2016.
 
-    <div class="experience-item">
-        <h3>Tus Pases, Full Stack Developer — January 2023 – Present</h3>
-        <ul>
-            <li>I designed and built the system for presenting cultural events.</li>
-            <li>I was in charge of developing and deploying the system.</li>
-            <li>Technological Stacks: Angular, Firestore</li>
-            <li>Website: <a href="https://tuspases.com">tuspases.com</a></li>
-        </ul>
-    </div>
+### Certifications
 
-    <!-- Add other experiences here -->
+- 🏅 Big Data Consultant – Big Data Science School, 2018.
 
-    <h2>Skills</h2>
-    <ul class="skills-list">
-        <li class="skills-item">Programming languages: Advanced in Python, Java; Intermediate in Angular, TypeScript,
-            JavaScript.</li>
-        <li class="skills-item">Framework Tools: Intermediate in Django, Selenium; Essential in FastAPI.</li>
-        <li class="skills-item">Database: Intermediate in MySql, PostgreSQL; Essential in Firestore DB.</li>
-        <li class="skills-item">Tools: Git, GitHub.</li>
-        <li class="skills-item">Agile: Scrum.</li>
-        <li class="skills-item">Languages: Fluent in English; Native in Spanish; Basic in German.</li>
-    </ul>
+Let's connect! Feel free to reach out to me through email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile). 😄
 
-    <h2>Education</h2>
-    <p>Politécnico Grancolombiano – Bogotá, Colombia</p>
-    <p>Systems Engineering and Computer Science, August 2012 - May 2016.</p>
-
-    <h2>Certifications</h2>
-    <ul class="certifications-list">
-        <li class="certifications-item">Big Data Consultant – Big Data Science School, 2018.</li>
-        <!-- Add other certifications here -->
-    </ul>
-</body>
-
-</html>
