@@ -48,5 +48,5 @@ I enjoy creating world-class technological solutions and always eager to take on
 
 - 🏅 Big Data Consultant – Big Data Science School, 2018.
 
-Let's connect! Feel free to reach out to me through email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile). 😄
+Let's connect! Feel free to reach out to me through email at [daniel.andreas87@gmail.com](mailto:daniel.andreas87@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/danielschuler11/). 😄
 
